@@ -2,9 +2,12 @@
 body {
     margin: 0;
     overflow: hidden;
-    background-color: black; /* Change as desired */
+    background-color: black; 
 }
-
+h1{
+    color: white;
+    text-align: center;
+}
 #drawingCanvas {
     position: absolute;
     top: 0;
@@ -14,21 +17,23 @@ body {
 
 #completionResult, #perfectnessResult {
     position: absolute;
-    color: white; /* Change text color */
+    color: rgb(244, 232, 232); 
     z-index: 2;
     top: 10px;
     left: 10px;
+    display: none;
 }
 
 .popup {
-    display: none; /* Initially hidden */
+    display: none; 
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: rgba(0, 0, 0, 0.8);
-    color: white;
+    color: rgb(240, 0, 0);
     padding: 20px;
+    font-size: 30px;
     border-radius: 10px;
     z-index: 3;
     flex-direction: column;
