@@ -1,0 +1,53 @@
+/* styles.css */
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: black; /* Change as desired */
+}
+
+#drawingCanvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#completionResult, #perfectnessResult {
+    position: absolute;
+    color: white; /* Change text color */
+    z-index: 2;
+    top: 10px;
+    left: 10px;
+}
+
+.popup {
+    display: none; /* Initially hidden */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    z-index: 3;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.popup img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
