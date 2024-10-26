@@ -7,7 +7,7 @@ const popupMessage = document.getElementById('popupMessage');
 const popupGif = document.getElementById('popupGif');
 const closePopup = document.getElementById('closePopup');
 
-// Set canvas to full screen
+
 function resizeCanvas() {
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
@@ -26,7 +26,7 @@ let totalDrawnDistance = 0;
 let lastX = null, lastY = null;
 let drawnPath = [];
 
-// Array of random GIF URLs - replace with your actual GIF paths
+
 const gifs = [
     'gifs/STK-20231015-WA0013.webp',
     'gifs/STK-20231116-WA0003.webp',
@@ -169,13 +169,13 @@ const gifs = [
     'gifs/STK-20241023-WA0005.webp',
 ];
 
-// Mouse events
+
 canvas.addEventListener('mousedown', startDrawing);
 canvas.addEventListener('mousemove', draw);
 canvas.addEventListener('mouseup', endDrawing);
 canvas.addEventListener('mouseleave', endDrawing);
 
-// Touch events
+
 canvas.addEventListener('touchstart', handleTouchStart);
 canvas.addEventListener('touchmove', handleTouchMove);
 canvas.addEventListener('touchend', endDrawing);
@@ -293,17 +293,17 @@ closePopup.addEventListener('click', () => {
     popup.style.display = 'none';
 });
 
-// Handle window resize
+
 window.addEventListener('resize', () => {
     const prevCenterX = centerX;
     const prevCenterY = centerY;
 
-    resizeCanvas(); // Call resizeCanvas to adjust the size
+    resizeCanvas(); 
     centerX = canvas.width / 2;
     centerY = canvas.height / 2;
     radius = Math.min(canvas.width, canvas.height) / 4;
 
-    // Update drawn path coordinates if exists
+
     drawnPath = drawnPath.map(point => ({
         x: point.x * (canvas.width / prevCenterX),
         y: point.y * (canvas.height / prevCenterY)
