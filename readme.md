@@ -39,17 +39,16 @@ For Software:
 # Screenshots (Add at least 3)
 ![WhatsApp Image 2024-10-26 at 5 01 41 AM](https://github.com/user-attachments/assets/867241c2-7f2d-4eea-acd7-ab548f7b5f00)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+
 *it shows the home page*
 
 ![WhatsApp Image 2024-10-26 at 5 01 42 AM (1)](https://github.com/user-attachments/assets/9c89729b-79b4-4bd7-913c-58f6e1bbee0d)
 
-![Screenshot2](Add screenshot 2 here with proper name)
 *when we start drawing*
 
 ![WhatsApp Image 2024-10-26 at 5 01 42 AM](https://github.com/user-attachments/assets/5ca4601a-2f58-438a-a229-de368bc8c65b)
 
-![Screenshot3](Add screenshot 3 here with proper name)
+
 *output*
 
 
