@@ -1,95 +1,71 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# SMILE IF YOU CAN🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: USELESS BOYS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Agesh K S
+- Member 2: Ummer Farook P
+- Member 3: Jibin Thomas
 
 ### Project Description
-[2-3 lines about what your project does]
+This project allows users to draw on a canvas and see how close they can get to creating a perfect circle. While the goal is simple—drawing a circle—the experience is designed to be fun and engaging. Users can interact with the canvas to create their drawings, and the application provides feedback on their performance, including completion percentage and a "perfectness" score.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Initially, the team planned to integrate a more complex project involving an API. However, due to difficulties obtaining the necessary API key.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+So the focus shifted to this simpler project. This pivot allowed the team to explore calculations and interactive elements without external dependencies.
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+  - HTML,CSS,JAVASCRIPT
+  - JAVASCRIPT
+  - VS CODE
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
 # Installation
-[commands]
+pushed inito github open it in the web
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
+![WhatsApp Image 2024-10-26 at 5 01 41 AM](https://github.com/user-attachments/assets/867241c2-7f2d-4eea-acd7-ab548f7b5f00)
+
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*it shows the home page*
+
+![WhatsApp Image 2024-10-26 at 5 01 42 AM (1)](https://github.com/user-attachments/assets/9c89729b-79b4-4bd7-913c-58f6e1bbee0d)
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*when we start drawing*
+
+![WhatsApp Image 2024-10-26 at 5 01 42 AM](https://github.com/user-attachments/assets/5ca4601a-2f58-438a-a229-de368bc8c65b)
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*output*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[(https://youtu.be/3ELhZCCEeMM)]
+*complete working of webapp*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+  - Agesh :UI,Java script
+  - Ummer Farook :UI,Java script
+  - jibin :UI,Java script
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
