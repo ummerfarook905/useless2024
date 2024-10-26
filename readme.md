@@ -42,11 +42,12 @@ For Software:
 
 *it shows the home page*
 
-![WhatsApp Image 2024-10-26 at 5 01 42 AM (1)](https://github.com/user-attachments/assets/9c89729b-79b4-4bd7-913c-58f6e1bbee0d)
-
-*when we start drawing*
 
 ![WhatsApp Image 2024-10-26 at 5 01 42 AM](https://github.com/user-attachments/assets/5ca4601a-2f58-438a-a229-de368bc8c65b)
+
+
+*when we start drawing*
+![WhatsApp Image 2024-10-26 at 5 01 42 AM (1)](https://github.com/user-attachments/assets/9c89729b-79b4-4bd7-913c-58f6e1bbee0d)
 
 
 *output*
